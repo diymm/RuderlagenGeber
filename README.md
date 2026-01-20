@@ -19,6 +19,7 @@ und dem Kontroller SAMD21G17.\
 Die Spannungsregelung wird energiesparend über einen Schaltregler geregelt. 
  
 ### Firmware
+Die Firmware ist aktuell noch in der Testphase und wird noch ergänzt.
 Im Testmode werden über die RS232 TTL verschiedene Zustände und Messwerte angezeigt,
 auch ohne Ausgabe der Werte ist es mit Hilfe der LED möglich den Abstand des Magnetsensors
 ausreichend genau einzustellen. 
@@ -27,7 +28,10 @@ ausreichend genau einzustellen.
 Eine Video Unterstützung auf YouTube steht zur weiteren Unterstützung bereit.
 [![RuderlageThumbnail](./ThumbNail.png)](https://www.youtube.com/watch?v=PicgXwzTuoU&t)
 
+### Dokumentation
+Durch die Verendung von KiCad für den Schaltplan und FreeCAD für die Zeichnungen ist eine Anpassung
+an eigene Vorstellungen möglich.
+
 ###Lizenz
 Alle Zeichnungen und der Programmcode können frei, nicht kommerziell, verwendet werden.
-creative commons (CC BY-NC 4.0)
-https://creativecommons.org/licenses/
+creative commons (CC BY-NC 4.0) https://creativecommons.org/licenses/
