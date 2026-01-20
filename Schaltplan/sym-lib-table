@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Zugentlastung")(type "KiCad")(uri "${KIPRJMOD}/Zugentlastung.kicad_sym")(options "")(descr ""))
+)
