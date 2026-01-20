@@ -32,6 +32,7 @@ Eine Video Unterstützung auf YouTube steht zur weiteren Unterstützung bereit.
 Durch die Verendung von KiCad für den Schaltplan und FreeCAD für die Zeichnungen ist eine Anpassung
 an eigene Vorstellungen möglich.
 
-###Lizenz
+### Lizenz
 Alle Zeichnungen und der Programmcode können frei, nicht kommerziell, verwendet werden.
 creative commons (CC BY-NC 4.0) https://creativecommons.org/licenses/
+
