@@ -11,8 +11,8 @@ ohne Anschlag erfasst. Eine mechanische Ausrichtung des Gebers ist nicht notwend
 es kann eine Drehrichtungsumkehr eingeschaltet werden.
 
 ### Elektronik
-Die Schaltung ist gegen Verpolung und Spannungspitzen geschützt und
-besteht im wesentlichen aus drei Komponenten:
+Die Schaltung ist gegen Verpolung und Spannungspitzen geschützt\
+und besteht im wesentlichen aus drei Komponenten:\
 Dem Positionssensor AS5600\
 einem CAN BUS Controller MCP2515\
 und dem Kontroller SAMD21G17.\
@@ -33,6 +33,7 @@ Durch die Verendung von KiCad für den Schaltplan und FreeCAD für die Zeichnung
 an eigene Vorstellungen möglich.
 
 ### Lizenz
-Alle Zeichnungen und der Programmcode können frei, nicht kommerziell, verwendet werden.
+Alle Zeichnungen und der Programmcode können frei, nicht kommerziell, verwendet werden.\
 creative commons (CC BY-NC 4.0) https://creativecommons.org/licenses/
+
 
